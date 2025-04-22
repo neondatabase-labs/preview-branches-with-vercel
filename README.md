@@ -9,7 +9,7 @@ For the full walkthrough, see the blog post: [A database for every preview envir
 > 
 > Learn more about Neon's Vercel integrations:
 > - [Native Vercel integration](https://neon.tech/docs/guides/vercel-native-integration)
-> - [Connectable Vercel integration](https://neon.tech/docs/guides/vercel-native-integration-previews)
+> - [Connectable Account Vercel integration](https://neon.tech/docs/guides/vercel-native-integration-previews)
 
 ## How it works
 
