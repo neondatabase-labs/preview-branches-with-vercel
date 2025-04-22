@@ -1,6 +1,15 @@
 # Preview Branches for every Vercel Preview Deployment
 
-This is an example project that shows how you can create a branch for every preview deployment on Vercel.
+This example project demonstrates how to create a database branch for each preview deployment on Vercel using GitHub Actions.  
+For the full walkthrough, see the blog post: [A database for every preview environment using Neon, GitHub Actions, and Vercel](https://neon.tech/blog/branching-with-preview-environments).
+
+> 💡 **Tip:** Neon offers _native_ and _connectable account_ Vercel integrations that automatically create a database branch for each preview deployment—no manual GitHub Actions setup required.
+> 
+> However, if you want more control over the process, you can implement your own CI workflow using GitHub Actions, as demonstrated in this repo. For example, Neon's native Vercel integration does not support automatic deletion of obsolete preview branches. A custom workflow using GitHub Actions could implement that functionality if needed.
+> 
+> Learn more about Neon's Vercel integrations:
+> - [Native Vercel integration](https://neon.tech/docs/guides/vercel-native-integration)
+> - [Connectable Account Vercel integration](https://neon.tech/docs/guides/vercel-previews-integration)
 
 ## How it works
 
